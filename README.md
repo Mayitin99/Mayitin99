@@ -4,5 +4,3 @@
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: Marioromans99@gmail.com
 - 😄 Pronouns: He/Him
-
-###
